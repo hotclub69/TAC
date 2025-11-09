@@ -209,7 +209,7 @@
       <varTables sizeState="INTERMEDIATE" name="Var" minimized="true"/>
       <outputTables sizeState="INTERMEDIATE" name="out1">
         <mapperTableEntries name="emp_name" expression="StringHandling.UPCASE(row1.name)" type="id_String" nullable="true"/>
-        <mapperTableEntries name="updated_salary" expression="(int)row1.salary > context.min_salary_filter" type="id_Integer" nullable="true"/>
+        <mapperTableEntries name="updated_salary" expression="row1.salary > context.min_salary_filter" type="id_Integer" nullable="true"/>
       </outputTables>
       <inputTables sizeState="INTERMEDIATE" name="row1" matchingMode="UNIQUE_MATCH" lookupMode="LOAD_ONCE">
         <mapperTableEntries name="salary" type="id_Integer" nullable="true"/>
