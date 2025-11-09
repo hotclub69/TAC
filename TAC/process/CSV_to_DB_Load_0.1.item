@@ -229,7 +229,7 @@
     <elementParameter field="TEXT" name="PORT" value="context.db_port"/>
     <elementParameter field="TEXT" name="DBNAME" value="context.db_name"/>
     <elementParameter field="TEXT" name="USER" value="context.db_user"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:Ayr+r1b2HSqsFwxIyWPyEQSd+eJTa9IgOkvTxgSDBEwnGTfmzTnSEWU+sQ=="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:PtRSia4L6Ynwy9Atd6kzZmjErnomr3W89CpRdu3oC592WA8NoXD3tNR7x8pz"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;csvtable&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="DROP_CREATE"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT"/>
