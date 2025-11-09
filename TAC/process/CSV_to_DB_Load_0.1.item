@@ -15,7 +15,7 @@
     <contextParameter comment="" name="db_port" prompt="db_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3306" internalId="_BrrSGbvvEfCVDaly5G5q-w"/>
     <contextParameter comment="" name="db_name" prompt="db_name?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="training" internalId="_BrrSGrvvEfCVDaly5G5q-w"/>
     <contextParameter comment="" name="db_user" prompt="db_user?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="user1" internalId="_BrrSG7vvEfCVDaly5G5q-w"/>
-    <contextParameter comment="" name="db_pass" prompt="db_pass?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="&quot;Password&quot;" internalId="_BrrSHLvvEfCVDaly5G5q-w"/>
+    <contextParameter comment="" name="db_pass" prompt="db_pass?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Password" internalId="_BrrSHLvvEfCVDaly5G5q-w"/>
     <contextParameter comment="" name="min_salary_filter" prompt="min_salary_filter?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="20000" internalId="_BrrSHbvvEfCVDaly5G5q-w"/>
   </context>
   <parameters>
